@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.link1 a:link {
+     color: rgba(0,0,0,1);
+     text-decoration: none;
+}
+.link1 a:visited {
+     text-decoration: none;
+     color: rgba(0,0,0,1);
+}
+.link1 a:hover {
+     text-decoration: none;
+     color: rgba(0,0,0,1);
+}
+.link1 a:active {
+     text-decoration: none;
+     color: rgba(0,0,0,1);
+}
+/* Resopnsive Form Code */
+input[type=text], select, textarea{
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+resize: vertical;
+}
+.col-75 {
+  margin: auto;
+  width: 55%;
+  margin-top: 6px;
+}
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+.footer-links {
+color: #149dcc !important;
+font-size: 1rem;
+}

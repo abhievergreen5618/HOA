@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title>500 ERROR</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<body bgcolor="#F0F6FF"><br>
+<br>
+<table width="50%" cellpadding="4" cellspacing="4" border="0" bgcolor="#FFFFFF" style="border: 1px solid #9999FF;" align="center">
+  <tr>
+    <td align="center"><br><span style="font-size:20px;font-weight:bold;font-family:verdana,sans-serif,helvetica,arial;color:#000000;">Error</span></td>
+  </tr>
+  <tr>
+    <td align="center"><br>
+    <span style="font-size:18px;font-weight:normal;font-family:verdana,sans-serif,helvetica,arial;color:#000000;">The data you are looking for does not exist or has been deleted by admin</span><br>
+    <br>    
+    </td>
+  </tr>
+</table>
+</body>
+</html>

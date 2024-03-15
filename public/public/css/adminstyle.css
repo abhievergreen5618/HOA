@@ -1,0 +1,52 @@
+.dz-photo img 
+{
+        border-radius: 50%;
+    width: 124px;
+    height: 131px;
+    position: absolute;
+    top: 100px;
+}
+
+.addItem {
+    padding: 20px 0px;
+}
+
+.profile-pic
+{
+    height: 190px;
+    border: 1px solid;
+    border-radius: 50%;
+    position:relative;
+}
+
+#previews
+{
+        width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.dz-message
+{
+    position:relative;
+}
+.dz-message i
+{
+    position: absolute;
+    top: 50px;
+    font-size: 30px;
+    left: 50px;
+}
+.dz-photo img
+{
+    border-radius: 50%;
+    width: 124px;
+    height: 131px;
+}
+.searchIcon
+{
+        position: absolute;
+    left: 169px;
+    top: 1px;
+}
+
