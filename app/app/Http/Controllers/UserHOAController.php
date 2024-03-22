@@ -54,7 +54,7 @@ class UserHOAController extends Controller
         // return response()->json(['message' => 'Data saved successfully']);
         
          // Send email to admin
-        $adminEmail = User::pluck('email')->first();
+        $adminEmail = User::where('id', 1)->pluck('email')->first();
         
         $subject = 'New Form Submission';
         $message = "A new form has been submitted:<br><br>";
