@@ -27,7 +27,7 @@ class InquiryController extends Controller
         $data->save();
         
         
-          $adminEmail = User::pluck('email')->first();
+          $adminEmail = User::where('id', 1)->pluck('email')->first();
         // // dd($adminEmail);
 
         $subject = 'New Enquiry Submission';
